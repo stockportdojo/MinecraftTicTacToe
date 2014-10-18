@@ -15,7 +15,7 @@ Crosses plays next, and the block they hit with the sword becomes a Gold block.
 
 When one player has 3 blocks in a row (up and down or side to side), they win the game. If all blocks have been hit then the game is a draw.
 
-The script should let the players know who is playing next, and should tell tem in chat if they have won, or if the game is over.
+The script should let the players know who is playing next, and should tell them in chat if they have won, or if the game is over.
 
 When the game has finished, the script can stop.
 
